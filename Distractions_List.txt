@@ -19,7 +19,7 @@ netflix.com
 pinterest.com
 qzone.qq.com
 reddit.com
-scryfall.com/advanced
+scryfall.com
 skype.com
 snapchat.com
 tagged.com
@@ -30,5 +30,5 @@ twitter.com
 vimeo.com
 vk.com
 weibo.com
-youtube.com
+www.youtube.com
 yy.com
